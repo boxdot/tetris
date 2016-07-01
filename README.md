@@ -1,0 +1,5 @@
+# tetris
+
+Dependencies:
+- pygame
+- pyopengl
